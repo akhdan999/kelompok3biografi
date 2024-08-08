@@ -1,0 +1,156 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  
+  background-color:#f7f7f7 ;
+}
+
+.div-tulisan{
+  display: flex;
+  background-color:#333 ;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  box-shadow: 2px 0px 10px 0px rgba(0,0,0,0.75);
+  
+}
+
+.li-container{
+  background-color: re;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.kelompok{
+  height: 100px;
+  width: 650px;
+  background-color: ble;
+  display:flex ;
+  margin: 30;
+  text-indent: ;
+  font-size: 53;
+  flex-direction: column;
+  font-weight: bold;
+  font-family: Times New Roman;
+  color: #f7f7f7;
+  
+}
+
+.paragraf{
+  font-size: 20;
+  display: flex;
+  justify-content: center;
+}
+
+.br-container{
+}
+
+.namanama {
+
+}
+
+.foto1 {
+  height: 10%;
+  width: 20%;
+  padding: 0px;
+  margin: 10px;
+
+}
+
+.gambar-saja{
+  width: 380px;
+  height: 400px;
+  box-shadow 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75) ;
+}
+
+.div-gambar {
+  height: 600px;
+  background-color: ;
+  font-size: 20px;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 80px;
+  font-weight: bold;
+  
+}
+
+.teks-saja {
+  font-family: Sans-Serif;
+  font-size: 45;
+  color: #333;
+}
+
+.teks-struktur{
+  font-size: 18px;
+  text-indent: 50px;
+
+  
+}
+
+.div-teks{
+  padding: 50px;
+  background-color: ;
+  text-indent: 50px;
+  text-align: justify;
+  font-family: Sans-Serif;
+  background-color: #333;
+  color: #f7f7f7;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  font-size: 20px;
+  box-shadow: 2px 0px 10px 0px rgba(0,0,0,0.75);
+}
+
+
+.div-footer {
+  background-color: red;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
+
+.h1-footer {
+  font-size: 70px;
+  color: white;
+}
+
+.p2-paragraf {
+  font-size: 18px;
+  text-indent: 50px;
+  text-align: justify;
+  font-family: Sans-Serif;
+  
+  color: #f7f7f7;
+}
+
+.kopi{
+  color: white;
+}
+
+.judul- {
+  
+  font-size: 20px;
+  
+  text-align: left;
+  text-decoration: underline;
+}
+
+.link-saja {
+  text-decoration: none;
+  color: skyblue;
+}
+.terimakasih {
+  font-style: italic;
+  font-size: 15px;
+}
